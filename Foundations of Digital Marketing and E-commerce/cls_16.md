@@ -1,4 +1,4 @@
-## 数字营销与电子商务中的岗位与职责
+## 数字营销与电子商务中的岗位与职责 (Roles and responsibilities in digital marketing and e-commerce)
 
 在另一篇阅读材料中，你已经了解了**数字营销协调员（Digital Marketing Coordinator）**和**电子商务分析师（E-commerce Analyst）**岗位的一些职责示例。本篇阅读将进一步总结数字营销与电子商务领域中其他**助理级或入门级岗位**及其职责。在阅读结尾，你还将看到一些建议，帮助你了解如何从起步岗位逐步发展到具有更多成长机会的职位。
 

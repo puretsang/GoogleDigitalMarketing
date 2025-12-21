@@ -1,4 +1,4 @@
-## Zuri - A day in the life of an entry-level digital marketer
+## 入门级数字营销人员的一天 (Zuri - A day in the life of an entry-level digital marketer)
 
 
 我是 Zuri，目前在 Google 担任助理产品营销经理（Associate Product Marketing Manager）。我进入数字营销领域的路径并不传统。我的成长经历中，并没有一开始就清楚地了解什么是数字营销，甚至对整个营销领域也并不熟悉。
