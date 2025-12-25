@@ -23,7 +23,9 @@
 
 ### 传统销售漏斗 (Traditional Sales Funnel)
 漏斗最初可能是以销售漏斗的形式成形的。一个简单的销售漏斗包含认知（Awareness）、兴趣（Interest）、决策（Decision）和行动（Action）阶段，如下表/图所示：
+
 ![项目截图](/images/sample_funnel.png)
+
 销售漏斗的理想结果，如图所示，可能包括：
 * **认知 (Awareness - ToFU)：** 客户对您的品牌、产品或服务有基本了解。
 * **兴趣 (Interest - MoFU)：** 当客户进行研究或对比时，您的品牌成为其首选之一。
@@ -32,6 +34,7 @@
 
 ### 营销与销售综合漏斗 (Combined Marketing and Sales Funnel)
 营销与销售的复合漏斗很可能源于销售漏斗。下文展示了一个典型案例。
+
 ![项目截图](/images/combined_funnels.png)
 
 如图所示的销售与营销漏斗的理想结果可能包括：
@@ -43,7 +46,9 @@
 
 ### 数字营销漏斗 (Digital Marketing Funnel)
 随着商业和技术的演进，出现了更多专门化的漏斗，例如完全专注于数字营销的漏斗。下文展示了一个专门的数字营销漏斗示例。请注意，漏斗中的**再营销 (Remarketing)** 阶段仅针对那些之前至少与您的品牌、产品或服务有过一次互动但尚未转化的客户。新客户则可以直接从**考虑 (Consideration)** 阶段进入**转化 (Conversion)** 阶段。
+
 ![项目截图](/images/digital_marketing_funnel.png)
+
 数字营销漏斗（如图所示）的理想结果可能包括：
 * **认知与参与 (Awareness and Engagement - ToFU)：** 客户了解品牌并通过在线活动深入学习。
 * **考虑 (Consideration - MoFU)：** 品牌在客户参与后成为首选。
@@ -91,6 +96,7 @@
 * **优化结果**：有效的营销工作会结合漏斗来优化预期的结果。
 
 最后提醒一点，尽管本文介绍了几种不同的漏斗模型，但你在本课程中会经常参考并使用的营销漏斗是下文所示。
+
 ![项目截图](/images/marketing_funnel.png)
 
 ### 关键慨念
