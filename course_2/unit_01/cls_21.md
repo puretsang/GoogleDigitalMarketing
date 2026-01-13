@@ -1,0 +1,1 @@
+## Practice: Marketing funnel stages and corresponding strategies
