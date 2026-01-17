@@ -1,0 +1,1 @@
+**Practice: Structure an e-commerce website**
