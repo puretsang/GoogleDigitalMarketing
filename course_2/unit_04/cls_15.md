@@ -1,0 +1,2 @@
+**Activity: Create an effective responsive search ad**
+ **[创建一个有效的响应式搜索广告](https://www.coursera.org/learn/attract-and-engage-customers/assignment-submission/qPjO8/activity-create-an-effective-responsive-search-ad/attempt)** 
